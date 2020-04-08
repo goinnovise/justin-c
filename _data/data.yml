@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Loren Anderson
-    tagline: Principal Consultant - Senior Software Engineer, TPM, BA
+    name: Justin Collantes
+    tagline: Full Stack Software Engineer
     avatar: profile.png
     
     # Sidebar links
-    email: loren@goinnovise.com
-    phone: 425-941-5979
+    email:
+    phone:
     website: goinnovise.com
-    linkedin: loren-anderson
-    github: TheOfficialLoren
+    linkedin:
+    github: JustinCIS
     gitlab:
     bitbucket:
     twitter:
-    stack-overflow: 1121638/lorengphd
+    stack-overflow:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -29,192 +29,75 @@ sidebar:
         #level: Native
 
     interests:
-      - item: Photography
+      - item:
         link:
 
-      - item: Fitness
+      - item:
         link:
 
-      - item: Travel
+      - item:
         link:
 
-      - item: Gaming
+      - item:
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Loren is a Senior Software Engineer with 10+ years of experience successfully
-      leading teams and educating businesses on development methodologies and best
-      practices. With his extensive knowledge of a wide array of software technologies,
-      languages and frameworks, Loren has assumed many different roles throughout his
-      career such as Systems Architect, Project Manager and Business Analyst, while
-      simultaneously programming and remaining a Senior Software Engineer. He excels
-      at quickly understanding the architectural landscape of businesses to advise and
-      bridge the gap between technical and non-technical teams to achieve business
-      goals, which is why he continues to be effective in the consulting industry.
+      Justin in a dedicated and proficient full stack software enginner aiming to leverage 7+ year of proven software development and 8+ years of software testing experience to contribute using extensive knowledge and strong foundation cultivated through Enterprise software development processes and procedures.
 
 
 education:
-    - degree: General Studies - Focus on Business
-      university: Western Washington University
+    - degree: Bachelor's of Science - Computer Information Systems
+      university: DeVry University
 
 experiences:
-    - role: Senior Software Engineer
-      time: May 2019 - Present
-      company: Modern Car Manufacturer (Protected by NDA on contract by iTrellis, LLC)
-      location: Seattle, WA
-      details: |
-        As the Senior Software Engineer Loren was responsible for working on two projects
-        simultaneously for multiple stakeholders within the client's organization. One
-        project focused on creating and integrating the API that provides data to all client
-        vehicle head units worldwide, aligning with changing laws &amp; regulations. The 
-        second project was solving Azure Active Directory syncing issues for a 
-        subsection of the client's employees, requiring the creation of APIs and tasks 
-        to sync the Active Directory databases. 
-        
-        _Accomplishments_
-          -	Learned the clients operations procedures and used Docker & Kubernetes to stand
-          up both systems in Azure, resulting in successful systems integrations.
-          - Supported teams based out of Europe including during off-hours releases
-          for troubleshooting, debugging and general needs.
-          - Successfully delivered both projects ahead of projected timeline.
-          - At the request of the client, presented and demonstrated project work at meetings.
-
-    - role: Senior Software Engineer
-      time: Oct 2019 - May 2019
-      company: Intl. Commercial Real Estate Corp. (Protected by NDA on contract by iTrellis, LLC)
+    - role: Full Stack Developer - Independent Contractor
+      time: July 2019 - Present
+      company: Hitachy Consulting Corp
       location: Dallas, TX
       details: |
-        This project was for a client based in Dallas, Texas and required a combination
-        of remote and on-site work. Loren was tasked with working within the team to
-        produce an angular-driven internal website, featuring real-time dashboards that
-        displayed performance data an analytics used by the company's sales team.
-        Throughout this project, Loren played an integral role in solving front-end
-        and back-end projects simultaneously for the website, demonstrating the
-        benefits and efficiencies of resources that can execute both types of 
-        software design.
-        
-        _Accomplishments_
-          - The only member on the project team, working on front-end and back-end parts of the code increase production and decrease dependencies.
-          - Taught the client's team software development best practices such as git version control.
-          - Adopted Angular 7, Postgres and GoLang within a couple of days to meet the client's expectations.
+         _Accomplishments_
+          -	Key resource on Agile dev team focused on delivering Enterprise Web solution using AWS cloud computing - while leveraging Lambda, S3, VPC, EC2, EBS, etc.
+          - Extended Enterprise Component Library written in Angular to create a rich set of reusable components to enhance productivity across several business units.
+          - Worked directly with POs to deliver solutions, estimates and cut impediment.
 
-    - role: Account Lead & Senior Software Engineer
-      time: Oct 2018 - Oct 2019
-      company: Crestron (on contract by iTrellis, LLC)
-      location: Rockleigh, NJ
+    - role: Front End Web Developer - Independent Contractor
+      time: Jan 2019 - July 2019
+      company: Nielsen Sports America, LLC
+      location: San Mateo, CA
       details: |
-        As a Senior Software Engineer, Loren assisted in the overhaul and deployment of
-        the client’s primary customer facing website and back-end tools to support
-        content changes and solve for multiple major performance issues.  He also provided
-        post-deployment support and continued feature development. Throughout this
-        process Loren also taught software development best practices and facilitated
-        the implementation of these processes, allowing the client to be self-sufficient 
-        post-completion of the project. He was also responsible for helping with 
-        code reviews, release management, Azure Dev Ops functions and process documentation.
-        
         _Accomplishments_
-          -	Responsible for building and maintaining iTrellis's relationship with the
-          client as the Account Lead.
-          - Supported the release of enterprise level Azure hosted website.
-          - Performed successful integrations including CDN and Elastic Search.
-          - Improved site performance by reducing database calls on each pages from
-          120 calls per page to 2, making Elastic Search more efficient.
-          - Quickly learned the company’s architectural landscape to make an immediate
-          impact on the client's team.
-          - As the Release Manager, Loren planned and executed the back-end tool
-          solution for content managers.
+          - Conceptualized UI/UX mockups, and delivered primary layout, data visualizations and navigation menus in CSS3/HTML5 and D3 javascript libraries.
+          - Delivered Angular 7 and React driven dashboard prototypes; complete with JWT Authentication and Internalization (i18n).
+          - Designed NodeJS/Express API to render paged datasets of over 100,000 records.
+          - Assist with facilitating discussions between offshore Dev team and local team members, in order to collaborate on best practices.
 
-
-    - role:  Project Manager &amp; Senior Software Engineer
-      time: Dec 2017 - Oct 2019
-      company: Capstone Technologies (on contract by iTrellis, LLC)
-      location: Vancouver, WA
+    - role: Software Engineer
+      time: July 2018 - Dec 2018
+      company: TravelClick, Inc
+      location: Fort Worth, TX
       details: |
-        Played an integral role in transforming the client with no software change 
-        management processes into a SAFe organization, implementing Microsoft Team
-        Foundation Server as the team support technology. Acted as the Scrum Master,
-        supporting the team in the adoption of  Agile principles and continuous
-        development techniques. Produced metrics to identify strong and weak points
-        in the software creation process.
-          
         _Accomplishments_
-          -	Organized the company into 3 functioning Scrum teams.
-          - Taught 9 developers and 5+ business analysts how to utilize the Scrum process.
-          - Created a CI/CD pipeline to increase productivity and quality assurance.
+          -	Interfaced with In-House TravelClick API to build React driven reservation system and Angular driven profile information portal for Valencia Hotels
+          - Implemented .NET 4.5 cryptography enhancement to Core Suite of Enterprise applications for use in oAuth powered login portals across Hotel applications
+          - Collaborated with 10-member team across several departments to design roadmap for migrating from monolithic system to microservice architecture
 
-
-    - role: Team Lead &amp; Senior Software Engineer
-      time: Mar 2011 - Jun 2016
-      company: ATG Stores / Lowe's
-      location: Kirkland, WA
+    - role:  Software Engineer
+      time: Oct 2015 - July 2018
+      company: MilitaryChildCare.com
+      location: Chantilly, VA
       details: |
-        Loren was responsible for the redesign of the cart and checkout pages of
-        e-commerce home improvement companies ATGStores.com and Lowe's Canada. This
-        integral redesign ensured optimal performance for customers purchasing on
-        the website. During this time, Loren also built and lead a team of 6 software
-        engineers to maintain and add additional features to the cart and checkout
-        pages of the site.
-        
         _Accomplishments_
-          - Integral part in helping meet and comply with PCI standards.
-          - Designed and created the credit card value using key encryption technology.
-          - Built and maintained a multi-million dollar checkout experience using Asp.net and C#.
-          - Implemented and lead the first team in the company to adopt Scrum methodologies.
+          -	Led team ranging from 4-8 Full stack developers while delivering iterative releases in an Agile Development environment for “MCC 2.0” project.
+          - Designed and developed features for “MCC 1.0” project, including assisting with system migration from monolithic application to microservice architecture.
+          - Mentored junior developers while developing React-based Summer Camp application catered to Providers (admins) requesting care for their installations.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiencies
-    languages: "C#, Java, TypeScript, JavaScript, GoLang, Python, VB, SQL"
-    frameworks: ".NET, Angular, RxjJS, Spring Boot, BeeGo, jQuery, Jekyll"
-    tools: "Windows, Mac OS, Visual Studio, VS Code, Agile, Scrum, SAFe"
-    operations: "CICD, Docker, Kubernetes, Helm, Azure Devops, Atlassian Jira, Jenkins, Atlassian Bamboo"
-    other: "Leading Teams, Cross-Functional Communication, Git, Azure, SQL Server, Postgres"
+    languages: "JavaScript, Java, C#, VB.NET, "
+    frameworks: "React, Redux, Angular, Spring, Hibernate, iBatis, .Net"
+    tools: "Agile, TDD"
+    operations: "CICD, Docker, Jenkins"
+    other: "Serverless Architecture, Microservice Architecture, SQL Server, REST Services"
